@@ -1,0 +1,12 @@
+.wishlist-container {
+    margin-top: 20px;
+}
+
+.wishlist-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin: 5px 0;
+    border-radius: 5px;
+}

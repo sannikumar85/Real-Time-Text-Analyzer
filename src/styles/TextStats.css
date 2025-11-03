@@ -1,0 +1,13 @@
+.text-stats {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.text-stats p {
+    margin: 5px 0;
+}
+
+.text-stats span {
+    font-weight: bold;
+    color: #007bff;
+}
